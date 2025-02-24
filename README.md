@@ -4,17 +4,27 @@ TechLink es una plataforma de comercio electrónico especializada en la venta de
 Características principales:
 
 Gestión de Usuarios: Registro, autenticación y asignación de roles (clientes, administradores).
+
 Catálogo de Productos: Listado detallado de productos con imágenes, descripciones y precios.
+
 Carrito de Compras: Funcionalidad para agregar, modificar y eliminar productos antes de la compra.
+
 Procesamiento de Pedidos: Creación y gestión de pedidos con opciones de pago y seguimiento de envíos.
+
 Cupones y Descuentos: Aplicación de códigos promocionales en compras.
+
 Reseñas y Valoraciones: Los clientes pueden dejar comentarios y calificar los productos.
+
 Sistema de Pagos: Integración con pasarelas de pago para transacciones seguras.
+
 Panel de Administración: Gestión de inventario, pedidos, usuarios y reportes de ventas.
 
 Tecnologías utilizadas:
 
 Back-end: C# con .NET Core y Entity Framework Core.
+
 Base de datos: SQL Server.
+
 Front-end: MVC para una presentación estructurada y eficiente en el lado del cliente, garantizando una experiencia dinámica y fácil de mantener.
+
 Framework: Boostrap.
